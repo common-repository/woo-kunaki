@@ -1,0 +1,19 @@
+[
+    {
+        "name": "PHP-Kunaki",
+        "version": "1.0.1",
+        "version_normalized": "1.0.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/kevinoconnor7/PHP-Kunaki",
+            "reference": "06b28b0"
+        },
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "classmap": [
+                "Kunaki.php"
+            ]
+        }
+    }
+]

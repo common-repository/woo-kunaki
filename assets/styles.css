@@ -1,0 +1,28 @@
+.woocommerce_variable_attributes .options label {
+    display: inline-block;
+    padding: 0 !important;
+}
+
+.woo-kunaki-upgrade-link {
+    color: green;
+    font-weight: bold;
+}
+
+.kunaki-upgrade-btn {
+    color: #ffffff;
+    border-color: #0071a1;
+    background: #0071a1;
+    vertical-align: top;
+    padding: 5px 10px;
+    text-decoration: none !important;
+    display: block;
+    width: 85px;
+    -webkit-appearance: none;
+    border-radius: 3px;
+    margin-top: 5px;
+}
+
+.kunaki-upgrade-btn:hover {
+    color: #ffffff;
+    background: #0089c9;
+}

@@ -1,0 +1,33 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c3210702c7f0eb7e61c32e1fa654a681",
+    "packages": [
+        {
+            "name": "PHP-Kunaki",
+            "version": "1.0.1",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/kevinoconnor7/PHP-Kunaki",
+                "reference": "06b28b0"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "Kunaki.php"
+                ]
+            }
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

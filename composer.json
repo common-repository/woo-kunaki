@@ -1,0 +1,28 @@
+{
+  "repositories": {
+    "sendwithus_php": {
+      "type": "package",
+      "package": {
+        "name": "PHP-Kunaki",
+        "version": "1.0.1",
+        "source": {
+          "url": "https://github.com/kevinoconnor7/PHP-Kunaki",
+          "type": "git",
+          "reference": "06b28b0"
+        },
+        "autoload": {
+          "classmap": ["Kunaki.php"]
+        }
+      }
+    }
+  },
+  "require": {
+    "PHP-Kunaki": "1.0.1"
+  },
+  "autoload": {
+    "psr-0": {
+      "Foo\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
